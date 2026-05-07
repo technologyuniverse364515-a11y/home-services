@@ -5,7 +5,7 @@ export const images = {
 
   plumbing: "https://images.unsplash.com/photo-1585704032915-c3400ca199e7?auto=format&fit=crop&w=1200&q=80",
   electrical: "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=1200&q=80",
-  hvac: "https://images.unsplash.com/photo-1631545806609-ec6e8e6f3b65?auto=format&fit=crop&w=1200&q=80",
+  hvac: "/home-services/hvac-service.png",
 
   beforeAfter: [
     {
